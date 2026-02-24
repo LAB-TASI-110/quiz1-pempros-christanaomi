@@ -4,7 +4,7 @@ prompt 3 : dan buat agar format input nya seperti ini NGS
 [Porsi Butet]
 AP
 [Porsi Butet]
-GG
+GG 
 [Porsi Butet]
 END 
 prompt 4 : dan tampilan outputnya harus seperti ini 

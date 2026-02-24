@@ -37,7 +37,7 @@ int main() {
             strcpy(nama_menu[i], "Sate Ayam");
             harga_menu[i] = 25000;
         }
-        else if (strcmp(kode, "BU") == 0) {
+        else if (strcmp(kode, "BU") == 0) { 
             strcpy(nama_menu[i], "Bakso Urat");
             harga_menu[i] = 18000;
         }

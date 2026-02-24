@@ -6,7 +6,7 @@ int main() {
     int kelompok;
     int total = 0;
     int anggota_per_kelompok = 2;
-
+ 
     printf("Masukkan kode kelompok (1 atau 2): ");
     scanf("%d", &kelompok);
 
